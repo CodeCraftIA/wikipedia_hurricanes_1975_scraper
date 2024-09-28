@@ -1,0 +1,25 @@
+hurricane_storm_name, date_start, date_end, list_of_areas_affected, number_of_deaths
+One, June 24, June 29, None, 0
+Amy, June 26, July 4, North Carolina, Newfoundland, 1
+Three, July 4, July 5, None, 0
+Blanche, July 23, July 28, Maine, Nova Scotia, 0
+Five, July 24, July 26, Mexico, 0
+Six, July 28, July 30, Louisiana, Mississippi, Alabama, Florida, 3
+Caroline, August 24, September 1, Cuba, Yucatán Peninsula, 2
+Doris, August 28, September 4, None, 0
+Eight, September 3, September 9, None, 0
+Nine, September 3, September 9, None, 0
+Ten, September 3, September 6, Mexico, 0
+Eleven, September 6, September 7, None, 0
+Twelve, September 11, September 14, None, 0
+Eloise, September 13, September 24, Puerto Rico, Hispaniola, Florida, Alabama, 80
+Faye, September 18, September 29, Bermuda, 0
+Gladys, September 22, October 3, None, 0
+Sixteen, September 25, September 30, Yucatán Peninsula, 0
+Seventeen, October 3, October 5, None, 0
+Eighteen, October 14, October 17, Louisiana, Mississippi, Alabama, Florida, 1
+Hallie, October 24, October 28, South Carolina, North Carolina, Virginia, 0
+Twenty, October 27, October 29, Nicaragua, Honduras, Belize, 0
+Twenty-One, November 8, November 12, Honduras, Yucatán Peninsula, 0
+Twenty-Two, November 29, December 1, None, 0
+Unnamed, December 6, December 13, None, 0
